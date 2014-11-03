@@ -17,6 +17,11 @@ A hello world type program.
 A sample program. 
 ![](https://docs.google.com/drawings/d/1s66OigYr9tjV2eS_UL-D5rtic1B1mTxPinMK_0AyMF4/pub?w=960&h=720)
 
+Github workflow: 
+* master is main branch that has working things
+* feature branches for what I am working on
+* things are integrated in and tag for release every Sunday when things are due
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
@@ -42,7 +47,7 @@ I spent time refining my ideas - I am counting extra hours I spent last week goi
 | Time | Work log |
 |:-----|:---------|
 | 2 hours | Visiting office hours to refine project idea and writing up initial document for the mini presentation in class. |
-| 1 hour| Read the project requirements, timeline of deliverables. 
+| 1 hour| Read the project requirements, timeline of deliverables. Set up project repository and decided on github work flow| 
 | 2.5 hours | Updated project README file. Designing and creating sample program in google drawings. Doing project description and plan. |
 | 1.5 hours | Worked on project plan and started project notebook entry. |
 | 1 hour | Finished the project plan and notebook entry. | 
