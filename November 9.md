@@ -21,6 +21,10 @@ you?**
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
+|Day | Time | Work log |
+|:---|:-----|:---------|
+| 11/3/14 | 1.5 hours | Critique (reading github repo contents and answering questions) for Alejandro |
+
 ## Post-critique summary
 
 ## Post-critique reflection
