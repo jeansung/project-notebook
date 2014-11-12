@@ -21,6 +21,14 @@ you?**
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
+|Day | Time | What I did  |
+|:---|:-----|:---------|
+| 11/11/14 | 1 hour | Went to Prof Ben's office to get a better idea of what my project looks like language wise and how to move forward. |
+beta 
+| 11/11/14 | 1 hour | Critique for Alejandro project |
+
+
+
 ## Post-critique summary
 
 ## Post-critique reflection
