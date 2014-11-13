@@ -25,8 +25,13 @@ team, how did you share the labor?**
 |:---|:-----|:---------|
 | 11/11/14 | 1 hour | Went to Prof Ben's office to get a better idea of what my project looks like language wise and how to move forward. |
 | 11/11/14 | 1 hour | Critique for Alejandro project |
+|11/13/14 | 1 hour | Post critique, reflection, plan for the week | 
 
-|11/13/14 | 1 hour | Post Critique Summary, reflection, plan for the week | 
+<!--
+language and design of the implementation document 
+time for the proof of concept in Excel
+then the grammar of the language -->
+
 
 ## Post-critique summary
 
