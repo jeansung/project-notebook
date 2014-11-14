@@ -25,12 +25,17 @@ team, how did you share the labor?**
 |:---|:-----|:---------|
 | 11/11/14 | 1 hour | Went to Prof Ben's office to get a better idea of what my project looks like language wise and how to move forward. |
 | 11/11/14 | 1 hour | Critique for Alejandro project |
-|11/13/14 | 1 hour | Post critique, reflection, plan for the week | 
+|11/13/14 | 1.5 hour | Post critique, reflection, plan for the week, started the design and implementation document | 
+| 11/13/14 | 2.5 hours | Design & implementation document, proof of concept in Excel |
+|11/13/14| 30 minutes  | working on Excel prototype, error strapping |
+
+
 
 <!--
-language and design of the implementation document 
+Need to finish the implementation document 
 time for the proof of concept in Excel
-then the grammar of the language -->
+then the grammar of the language
+project notebook entry for the summary of what I did / answering the questions  -->
 
 
 ## Post-critique summary
