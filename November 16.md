@@ -9,14 +9,28 @@ exciting milestones, preliminary results, etc. Feel free to include images
 code, and any other resources that you think will help clearly convey your
 design process.
 
+
+The major things I did this week was to create a grammar for the rule creation. I also flushed out what the system architecture is. I also designed a prototype that interfaces python with Excel to show that what I need to be done, can be done. Finally, I created a rough screen recording of the pre prototype product just to give a run through of how my thing works right now.
+
+[Grammar](https://github.com/jeansung/project/blob/master/work%20products/prelim_grammar.md)  
+[System architecture](https://github.com/jeansung/project/blob/master/work%20products/system_architecture_picture.jpg)   
+[Link to current code](https://github.com/jeansung/project/blob/master/Excel%20prototypes/createTable.py)   
+[Pre prototype](https://drive.google.com/drive/#folders/0B9z84Or5GzOnQnNKdm1pY01GMUU)     
+
+
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
+The most pressing issue for my project this week is getting feedback on the grammar I created for my rules. A big deal for my prototype is to show that the grammar is viable to parse rules from that I can enforce in the python code. 
+
 **What questions do you have for your critique partners? How can they best help
 you?**
+
+Questions I have for my critique partner- is the grammar okay? I am trying to make it wide enough to cover the cases that are explained in the `constraints.txt` document but small enough to manageable. I am also not really sure how the parsed form of the rule looks like ... 
 
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
@@ -27,10 +41,11 @@ team, how did you share the labor?**
 | 11/11/14 | 1 hour | Critique for Alejandro project |
 |11/13/14 | 1.5 hour | Post critique, reflection, plan for the week, started the design and implementation document | 
 | 11/13/14 | 2.5 hours | Design & implementation document, proof of concept in Excel |
-|11/13/14| 30 minutes  | working on Excel prototype, error strapping | |11/15/14 | 1 hour 15 minutes | Excel prototype, creating intermediate types | 
+|11/13/14| 0.5 hours  | working on Excel prototype, error strapping | 
+|11/15/14 | 1 hour 15 minutes | Excel prototype, creating intermediate types | 
 | 11/15/14| 2 hours | Finished excel prototype with simple rules | 
-|11/15/14| x | Developed grammar for rule generation, design architecture, finished design and implementation document, update README, project notebook for this week |
-
+|11/15/14| 3.5 hours | Developed grammar for rule generation, design architecture, finished design and implementation document, update README, took screen recording for the pre prototype, finished project notebook entry for this week |
+| Total time | 13.25 hours | 
 
 ## Post-critique summary
 
@@ -71,3 +86,12 @@ This week, the language and implementation design document is due.  I am working
 Looking a bit ahead, the prototype is due next week. I have a fully functioning output in Excel, and I plan to do a very simple use case (probably with hard coded rules) that goes from text to python to Excel. 
 
 **Actual work**
+
+This week, I have finished everything I have planned to do, including:
+* created a grammar for the rules (in `preliminary_grammar.md`)
+* created a proof of concept in Excel
+	* reads in types, values to generate initial tables
+	* generates intermediate tables
+	* enforces a total sum of values rules
+	* does all this from text/python to Excel sandbox
+* finished implementation design and implementation document, i.e. the `design_and_implementation.md` document
