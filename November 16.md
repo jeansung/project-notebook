@@ -27,22 +27,16 @@ team, how did you share the labor?**
 | 11/11/14 | 1 hour | Critique for Alejandro project |
 |11/13/14 | 1.5 hour | Post critique, reflection, plan for the week, started the design and implementation document | 
 | 11/13/14 | 2.5 hours | Design & implementation document, proof of concept in Excel |
-|11/13/14| 30 minutes  | working on Excel prototype, error strapping |
-
-
-
-<!--
-Need to finish the implementation document 
-time for the proof of concept in Excel
-then the grammar of the language
-project notebook entry for the summary of what I did / answering the questions  -->
+|11/13/14| 30 minutes  | working on Excel prototype, error strapping | |11/15/14 | 1 hour 15 minutes | Excel prototype, creating intermediate types | 
+| 11/15/14| 2 hours | Finished excel prototype with simple rules | 
+|11/15/14| x | Developed grammar for rule generation, design architecture, finished design and implementation document, update README, project notebook for this week |
 
 
 ## Post-critique summary
 
 At the time of writing this, Alejandro hasn't done an official critique in my critiques folder, but I got really helpful feedback from him in class during our critique group session. I presented my dilemma of having a way to 
 * statically define the table
-* staticially define the rules 
+* statically define the rules 
 * bring everything together to let the user in a sandbox experiment to see what works and what doesn't given a set of defined constraints
 
 People in my group helped me see that I should funnel the rules and the table through Python to output an Excel document. This would let the user play in the Excel (which would live update).   
@@ -70,7 +64,7 @@ This week, the language and implementation design document is due.  I am working
 * creating a grammar for the rules (I have started this process somewhat last week by listing out what are the types of constraints I plan to support)
 * creating a proof of concept of taking things from Python to Excel
 	* this means that my deliverables this week will have code!
-	* I wil definitely get the table from text to Python to Excel
+	* I will definitely get the table from text to Python to Excel
 	* A stretch goal is to translate rules (parsed into the grammar) to Excel (I know that Excel supports formulas )
 * finishing the implementation and design document 
 
