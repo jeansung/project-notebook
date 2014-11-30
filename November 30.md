@@ -29,7 +29,25 @@ team, how did you share the labor?**
 | 11/26/14| 30 minutes | Revision of the grammar and parser as per Alejandro's suggestion |
 | 11/26/14| 1 hour 15 minutes | Revised test cases for new parser and split along more files | 
 | 11/29/14| 3 hours | Connecting parser with creating rules for excel |
+| 11/30/14| 4 hours | Reorganizing the code/ refactoring, adding in Excel support for type rules, more user testing, initial thoughts for the evaluation.md file |
+| Total | 11.75 hours | 
+
 
 ## Post-critique summary
 
 ## Post-critique reflection
+
+alejandro showed me a better way to use/structure my parser which was nice
+talked to prof ben about the linear programming problem found somethi
+
+Planned work
+research on linear programming methods in Python
+revised the grammar and parser
+reoganized the code / moved utility functions to separate files
+connected rules to excel
+evaluation md document 
+
+Actual work 
+
+did everything I planned 
+
