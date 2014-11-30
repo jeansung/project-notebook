@@ -28,6 +28,7 @@ team, how did you share the labor?**
 | 11/26/14 | 45 minutes | Meeting with Prof Ben to discuss how to implement the contradiction checking |
 | 11/26/14| 30 minutes | Revision of the grammar and parser as per Alejandro's suggestion |
 | 11/26/14| 1 hour 15 minutes | Revised test cases for new parser and split along more files | 
+| 11/29/14| 3 hours | Connecting parser with creating rules for excel |
 
 ## Post-critique summary
 
