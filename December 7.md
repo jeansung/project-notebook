@@ -21,12 +21,14 @@ Big things I accomplished
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
-This week I wrapped up what I had into a nice download-able package.  I need to decide for the last week if I want to add more features/ what those features should e. I have decided for now not to do the validation checker. 
+This week I wrapped up what I had into a nice download-able package.  I need to decide for the last week if I want to add more features/ what those features should be. I have decided for now not to do the validation checker. 
 
 **What questions do you have for your critique partners? How can they best help
 you?**
 
 The most helpful thing this week is to download, install, and run my program from the instructions in the `README` file and give me feedback on the process. Is it hard? Is it accessible? What is confusing about it? Suggestions for improving the process?
+
+The riskiest part of the code is when I try helpfully to open the file when you are done writing the file, by using the open command. If this crashes or doesn't work, please open up the `run.py` file and comment out line #79, the line `os.system(OPEN_COMMAND + newFile)` and try again. 
 
 Also, I know that you mentioned to me about the idea of having a progress bar feature- but I am not sure how this would work for the each rules. What would you want to see in terms of a current value for those types of rules. 
 
@@ -35,12 +37,13 @@ Also, I know that you mentioned to me about the idea of having a progress bar fe
 
 |Day | Time | What I did|
 |:---|:-----|:---------|
-| 12/2/14| 1 hour 30 minutes | Critique for Alejandro project, including downloading/installing |
+| 12/2/14| 1 hour 15 minutes | Critique for Alejandro project, including downloading/installing |
 | 12/3/14 | 1 hour | research on bootstrap file like Alejandro has, `virtual env`|
 | 12/3/14 | 2 hour | Work on meshing all of files together to create a product |
 | 12/4/14 | 1 hour 30 minutes | Finished tying the pieces together to make a run.py |
 | 12/4/14 | 3 hours | Created sample programs, created tutorial and updated REAME | 
-| 12/5/14 | 2 hours | Finished `README`, finished project notebook | 
+| 12/5/14 | 2 hours | Finished `README`, finished project notebook |
+| 12/6/14 | 15 minutes | Added feature that opens Excel automatically or whatever program handles xls |  
 | Total | 11 hours | |   
 
 
