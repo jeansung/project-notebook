@@ -7,7 +7,14 @@
 | 12/9/14 | 1 hour | Alejandro final write up critique | 
 | 12/9/14 | 1 hour 30 minutes | Critique reflection, figured out what I need to do this week. Cleaned up out of date files. Cleaned up code with comments. Created bash script to activate the virtual environment and run the program. Allowed white space in table file.  |
 
+
 <!--
+More uniform error message handling. Added it for the case where you write a rule that does not reference a table type that was previously specified. Changed the grammar, parser, test cases and sample program (inputs) so that you can do a comma separated list and not require the last comma. 
+
+-Test it on another machine
+-remove duplicate files
+- update instructions (bash file, types) 
+- 
 Tonight:
 error handling
 Test the bash file 
@@ -19,8 +26,6 @@ revise instructions / remove duplicates
 <!--
  Instructions:
  - bash script is what will run your thing! 
--allowed white space in table creation
--if you are getting an error on the  word, look for the comma 
 - if the shell scripts are not running then use chmod +x scriptName to add execute, may need to execute as sudo 
 -->
 
